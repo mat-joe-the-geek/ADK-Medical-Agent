@@ -98,7 +98,7 @@ gcloud services enable aiplatform.googleapis.com
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/mat-joe-the-geek/ADK-Medical-Agent.git
     ```
 
 2. Create and activate a Python virtual environment:
