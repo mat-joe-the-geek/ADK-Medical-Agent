@@ -64,13 +64,13 @@ All sub-agents use the `gemini-2.0-flash` model for LLM-based reasoning .
 
 ## Key Features
 
-    Modular, multi-agent design for specialized medical analysis across various domains.
+- Modular, multi-agent design for specialized medical analysis across various domains.
 
-    Each sub-agent focuses on a distinct medical discipline (Cardiology, Dermatology, Neurology, Orthology, Psychiatry, Pediatrics, General Medicine).
+- Each sub-agent focuses on a distinct medical discipline (Cardiology, Dermatology, Neurology, Orthology, Psychiatry, Pediatrics, General Medicine).
 
-    Provides comprehensive overviews or preliminary research insights based on user queries.
+- Provides comprehensive overviews or preliminary research insights based on user queries.
 
-    Designed to assist in understanding complex medical topics.
+- Designed to assist in understanding complex medical topics.
 
 ## Setup and Installation
 
