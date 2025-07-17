@@ -57,8 +57,8 @@ Each sub-agent leverages specific tools to perform its analysis:
 
 | Main-Agent               | Description                                                                                 |
 |--------------------------|---------------------------------------------------------------------------------------------|
-| Sub Agent Coordinator    | Coordinates all the Sub Agents and delegate the prompt based on Sub Agent specialization    |
 | Medical Agent            | Interacts with the user and conveys the prompt to the Sub Agent Coordinator                 |
+| Sub Agent Coordinator    | Coordinates all the Sub Agents and delegate the prompt based on Sub Agent specialization    |
 
 All sub-agents use the `gemini-2.0-flash` model for LLM-based reasoning .
 
@@ -135,6 +135,9 @@ Run the agent:
 ```bash
 adk web
 ```
+Open http://localhost:8000/ on your browser
+
+Select your agent : 'medical_agent'
 
 ## Legal Disclaimer
 
